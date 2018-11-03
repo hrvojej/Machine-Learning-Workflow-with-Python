@@ -167,11 +167,4 @@ With interactive visualization, you can take the concept a step further by using
 
  In this section I show you  **11 plots** with **matplotlib** and **seaborn** that is listed in the blew picture:
  <img src="http://s8.picofile.com/file/8338475500/visualization.jpg" />
- 
-you can follow me on:
-> ###### [ GitHub](https://github.com/mjbahmani)
-> ###### [LinkedIn](https://www.linkedin.com/in/bahmani/)
-> ###### [Kaggle](https://www.kaggle.com/mjbahmani/)
 
- 
- ## Please Fork the Repository to continue...
