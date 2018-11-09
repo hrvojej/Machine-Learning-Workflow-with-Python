@@ -1,0 +1,30 @@
+3-3 Variables
+Age ==>> Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
+
+Sibsp ==>> The dataset defines family relations in this way...
+
+a. Sibling = brother, sister, stepbrother, stepsister
+
+b. Spouse = husband, wife
+
+Parch ==>> The dataset defines family relations in this way...
+
+a. Parent = mother, father
+
+b. Child = daughter, son, stepdaughter, stepson
+
+c. Some children travelled only with a nanny, therefore parch=0 for them.
+
+Pclass ==>> A proxy for socio-economic status (SES)
+
+1st = Upper
+2nd = Middle
+3rd = Lower
+Embarked ==>> nominal datatype
+Name ==>> nominal datatype . It could be used in feature engineering to derive the gender from title
+Sex ==>> nominal datatype
+Ticket ==>> that have no impact on the outcome variable. Thus, they will be excluded from analysis
+Cabin ==>> is a nominal datatype that can be used in feature engineering
+Fare ==>> Indicating the fare
+*PassengerID * ==>> have no impact on the outcome variable. Thus, it will be excluded from analysis
+Survival is ==>> dependent variable , 0 or 1
